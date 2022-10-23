@@ -1,4 +1,4 @@
-const Ixeria = [
+[
     {
         id:"1",
         title:"Extencee Plus",
